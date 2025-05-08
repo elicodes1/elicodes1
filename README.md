@@ -1,6 +1,6 @@
 
- -  Hi, I’m "@elicodes1", curr.website={eliengine.com}
- -  def USER_ID("Pronouns": "He / Him")
+ -  Hi, I am "@elicodes1", curr.website={eliengine.com}
+ -  def USER_ID:("Pronouns": "He / Him")
 -     """ I am interested in collecting environmental data from the world around us! """
 - 🌱 I am currently learning and working with a ecological science lab
 
